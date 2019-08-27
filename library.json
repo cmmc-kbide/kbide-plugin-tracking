@@ -1,11 +1,11 @@
 {
   "name" : "kbide-plugin-tracking",
-  "title": "tracking",
+  "title": "KY-033 Line Tracking",
   "keywords": "tracking, esp32, esp8266, arduino",
   "description": "tracking plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-tracking/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-tracking/",
   "version": "1.0.0",
